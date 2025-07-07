@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天氣預報</string>
+    <string name="loading">載入中…</string>
+    <string name="location_loading">載入中…</string>
+    <string name="temperature_placeholder">--°</string>
+    <string name="feels_like">體感 %1$s°</string>
+    <string name="humidity">濕度</string>
+    <string name="wind_speed">風速</string>
+    <string name="pressure">氣壓</string>
+    <string name="visibility">能見度</string>
+    <string name="details">詳細信息</string>
+    <string name="forecast_5_days">5天天氣預報</string>
+    <string name="permission_required">需要位置權限來獲取天氣信息</string>
+    <string name="location_failed">無法獲取位置</string>
+    <string name="location_error">位置獲取失敗</string>
+    <string name="weather_data_failed">天氣數據獲取失敗</string>
+    <string name="network_error">網絡連接錯誤: %1$s</string>
+    <string name="forecast_data_failed">預報數據獲取失敗</string>
+</resources>
