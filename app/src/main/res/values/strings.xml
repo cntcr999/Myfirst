@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天氣預測</string>
+    
+    <!-- Main Activity -->
+    <string name="search_city_hint">輸入城市名稱</string>
+    <string name="search_button">搜尋</string>
+    <string name="current_location">使用當前位置</string>
+    <string name="forecast_title">5天預測</string>
+    <string name="refresh">刷新</string>
+    
+    <!-- Weather Details -->
+    <string name="feels_like">體感溫度</string>
+    <string name="humidity">濕度</string>
+    <string name="wind_speed">風速</string>
+    <string name="pressure">氣壓</string>
+    <string name="visibility">能見度</string>
+    <string name="uv_index">紫外線指數</string>
+    <string name="sunrise">日出</string>
+    <string name="sunset">日落</string>
+    <string name="weather_details">詳細信息</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">網路連接錯誤</string>
+    <string name="error_location">無法獲取位置信息</string>
+    <string name="error_city_not_found">找不到該城市</string>
+    <string name="error_permission_denied">需要位置權限來獲取天氣信息</string>
+    <string name="error_no_city_name">請輸入城市名稱</string>
+    
+    <!-- Loading -->
+    <string name="loading_weather">正在獲取天氣數據...</string>
+    <string name="loading_location">正在獲取位置...</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_rationale">需要位置權限來獲取當前位置的天氣</string>
+    
+    <!-- Content Descriptions -->
+    <string name="weather_icon">天氣圖標</string>
+    <string name="search_icon">搜尋圖標</string>
+    <string name="location_icon">位置圖標</string>
+    <string name="detail_arrow">查看詳情</string>
+    
+    <!-- Weather Conditions -->
+    <string name="sunny">晴天</string>
+    <string name="cloudy">多雲</string>
+    <string name="rainy">雨天</string>
+    <string name="snowy">雪天</string>
+    <string name="clear">晴朗</string>
+    <string name="overcast">陰天</string>
+    <string name="partly_cloudy">部分多雲</string>
+    <string name="thunderstorm">雷雨</string>
+    <string name="fog">霧</string>
+    
+    <!-- Units -->
+    <string name="celsius">°C</string>
+    <string name="meter_per_second">m/s</string>
+    <string name="hectopascal">hPa</string>
+    <string name="kilometer">km</string>
+    <string name="percent">%</string>
+</resources>
